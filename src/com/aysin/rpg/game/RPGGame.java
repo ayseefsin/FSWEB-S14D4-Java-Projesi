@@ -7,6 +7,6 @@ public class RPGGame {
 
         System.out.println("attact "+troll.attact());
 
-        System.out.println("attact2: " + troll.attact());
+
     }
 }
